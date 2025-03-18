@@ -1,2 +1,2 @@
-# python-programming.
+# python-programming
 My first repository
